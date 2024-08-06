@@ -15,7 +15,7 @@ This project automates email processing using Gmail API and AI-powered responses
 
 1. Clone the repository:
 
-it clone https://github.com/yourusername/email-workflow-automation.git
+git clone https://github.com/yourusername/email-workflow-automation.git
 cd email-workflow-automation
 
 2. Create a virtual environment:
