@@ -25,30 +25,8 @@ source langchain_env/bin/activate  # On Windows, use langchain_env\Scripts\activ
 3. Install required packages:
 pip install -r requirements.txt
 
-Certainly! Here's a comprehensive README file that explains how to set up everything, including LangChain and all the necessary Python packages:
-markdownCopy# Email Workflow Automation
 
-This project automates email processing using Gmail API and AI-powered responses with Groq API.
 
-## Prerequisites
-
-- Python 3.8+
-- A Google Cloud Platform account
-- A Groq API account
-
-## Setup
-
-1. Clone the repository:
-git clone https://github.com/yourusername/email-workflow-automation.git
-cd email-workflow-automation
-Copy
-2. Create a virtual environment:
-python3 -m venv langchain_env
-source langchain_env/bin/activate  # On Windows, use langchain_env\Scripts\activate
-Copy
-3. Install required packages:
-pip install -r requirements.txt
-Copy
 4. Set up Google Cloud Platform:
 - Go to the [Google Cloud Console](https://console.cloud.google.com/)
 - Create a new project
